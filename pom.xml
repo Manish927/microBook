@@ -71,6 +71,7 @@
         <module>PaymentService</module>
         <module>SeatingConfigService</module>
         <module>UserService</module>
+        <module>DiscountService</module>
     </modules>
 
     <build>
