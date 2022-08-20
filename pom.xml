@@ -66,6 +66,13 @@
         </dependency>
     </dependencies>
 
+    <modules>
+        <module>MovieService</module>
+        <module>PaymentService</module>
+        <module>SeatingConfigService</module>
+        <module>UserService</module>
+    </modules>
+
     <build>
         <plugins>
             <plugin>
